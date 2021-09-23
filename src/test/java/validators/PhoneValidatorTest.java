@@ -1,12 +1,19 @@
 package validators;
 
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class PhoneValidatorTest {
 
-    PhoneValidator phoneValidator = new PhoneValidator();
+    private PhoneValidator phoneValidator;
+
+    @BeforeAll
+    void setUp()
+    {
+        phoneValidator = new PhoneValidator();
+    }
 
     @Test
     void validatePhoneNumber_lithuanianPhoneNumberContainsLetters_shouldReturnFalse() {

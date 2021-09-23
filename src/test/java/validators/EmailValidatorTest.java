@@ -1,5 +1,6 @@
 package validators;
 
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -8,7 +9,13 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class EmailValidatorTest {
 
-    EmailValidator emailValidator = new EmailValidator();
+    private EmailValidator emailValidator;
+
+    @BeforeAll
+    void setUp()
+    {
+        emailValidator = new EmailValidator();
+    }
 
     @Test
     void validateEmail_emailIsEmpty_ShouldReturnFalse() {

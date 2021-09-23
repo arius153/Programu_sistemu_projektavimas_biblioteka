@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bdb6317-4ffb-415c-849c-fbbb8c87820e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/validators/EmailValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/validators/PasswordChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/validators/PhoneValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/java/validators/EmailValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/validators/EmailValidatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yWwuo2vNT2dEgp3GXvSUZcHvzt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bdb6317-4ffb-415c-849c-fbbb8c87820e" name="Default Changelist" comment="" />
+      <created>1632380879614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632380879614</updated>
+    </task>
+    <servers />
+  </component>
+</project>
